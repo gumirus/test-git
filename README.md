@@ -1,1 +1,1 @@
-[Возраст JavsScript](https://gumirus.github.io/test-git/)
+[Возраст JavaScript](https://gumirus.github.io/test-git/)
